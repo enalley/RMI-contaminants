@@ -1,0 +1,43 @@
+﻿Real Composite,Fake Composite,Species,Sample,Trophic,Location,Total As_dry ug.g,Total As_wet ug.g,AsIII_ug.g,InorgAs_ug.g,Perc_wet.dry,Wet.inorg
+1,1 - E. polyphekadion,E. polyphekadion,KWEPPO-1,Carnivore,Kwajalein,161,123.85,0,0,0.769254658,0
+1,1 - E. polyphekadion,E. polyphekadion,KWEPPO-2,Carnivore,Kwajalein,187,143.43,0,0,0.767005348,0
+1,1 - E. polyphekadion,E. polyphekadion,KWEPPO-3,Carnivore,Kwajalein,52,40,0,0,0.769230769,0
+2,2 - K. pelamis,K. pelamis,KWKAPE-1,Pelagic,Kwajalein,11.7,8.2,0,0,0.700854701,0
+2,2 - K. pelamis,K. pelamis,KWKAPE-2,Pelagic,Kwajalein,12.5,9.08,0,0,0.7264,0
+2,2 - K. pelamis,K. pelamis,KWKAPE-3,Pelagic,Kwajalein,8.37,5.94,0,0,0.709677419,0
+3,3 - L. gibbus,L. gibbus,KWLUGI-1,Benthic Inv.,Kwajalein,5.37,3.76,0.031,0.032,0.70018622,0.022405959
+3,3 - L. gibbus,L. gibbus,KWLUGI-2,Benthic Inv.,Kwajalein,12.9,8.85,0.031,0.032,0.686046512,0.021953488
+3,3 - L. gibbus,L. gibbus,KWLUGI-5,Benthic Inv.,Kwajalein,4.34,2.81,0.031,0.032,0.647465438,0.020718894
+4,4 - N. lituratus,N. lituratus,KWNALI-2,Herbivore,Kwajalein,2.48,1.79,0.071,0.06,0.721774194,0.043306452
+4,4 - N. lituratus,N. lituratus,KWNALI-5,Herbivore,Kwajalein,6.7,3.47,0.071,0.06,0.517910448,0.031074627
+4,4 - N. lituratus,N. lituratus,KWNALI-6,Herbivore,Kwajalein,5.89,3.69,0.071,0.06,0.626485569,0.037589134
+5,5 - C. sordidus,C. sordidus,KWCHSO-1,Parrotfish,Kwajalein,3.28,2.46,0.211,0.191,0.75,0.14325
+5,5 - C. sordidus,C. sordidus,KWCHSO-3,Parrotfish,Kwajalein,3.32,2.54,0.211,0.191,0.765060241,0.146126506
+5,5 - C. sordidus,C. sordidus,KWCHSO-5,Parrotfish,Kwajalein,4.1,3.19,0.211,0.191,0.77804878,0.148607317
+6,6 - E. polyphekadion,E. polyphekadion,JAEPPO-1,Carnivore,Jaluit,23.6,17.84,0,0,0.755932203,0
+6,6 - E. polyphekadion,E. polyphekadion,JAEPPO-4,Carnivore,Jaluit,14.5,10.51,0,0,0.724827586,0
+6,6 - E. polyphekadion,E. polyphekadion,JAEPPO-10,Carnivore,Jaluit,195,145.91,0,0,0.74825641,0
+7,7 - T. albacares,T. albacares,JATHAL-1,Pelagic,Jaluit,7.31,5.32,0,0,0.727770178,0
+7,7 - T. albacares,T. albacares,JATHAL-2,Pelagic,Jaluit,10.9,8.02,0,0,0.735779817,0
+7,7 - T. albacares,T. albacares,JATHAL-3,Pelagic,Jaluit,8.27,5.96,0,0,0.720677146,0
+8,8 - L. gibbus,L. gibbus,JALUGI-4,Benthic Inv.,Jaluit,5.7,4.17,0,0,0.731578947,0
+8,8 - L. gibbus,L. gibbus,JALUGI-5,Benthic Inv.,Jaluit,4.43,3.1,0,0,0.699774266,0
+8,8 - L. gibbus,L. gibbus,JALUGI-6,Benthic Inv.,Jaluit,26.4,20.31,0,0,0.769318182,0
+9,9 - N. lituratus,N. lituratus,JANALI-1,Herbivore,Jaluit,4.35,3.38,0.044,0.04,0.777011494,0.03108046
+9,9 - N. lituratus,N. lituratus,JANALI-2,Herbivore,Jaluit,2.77,2.08,0.044,0.04,0.750902527,0.030036101
+9,9 - N. lituratus,N. lituratus,JANALI-4,Herbivore,Jaluit,2.31,1.81,0.044,0.04,0.783549784,0.031341991
+10,10 - E. polyphekadion,E. polyphekadion,UTEPPO-1,Carnivore,Utirik,30.5,22.79,0,0,0.747213115,0
+10,10 - E. polyphekadion,E. polyphekadion,UTEPPO-5,Carnivore,Utirik,43.8,33.08,0,0,0.755251142,0
+10,10 - E. polyphekadion,E. polyphekadion,UTEPPO-7,Carnivore,Utirik,206,156.6,0,0,0.760194175,0
+11,11 - T. albacares,T. albacares,UTTHAL-1A,Pelagic,Utirik,11,7.92,0,0,0.72,0
+11,11 - T. albacares,T. albacares,UTTHAL-2A,Pelagic,Utirik,7.03,5.2,0,0,0.739687055,0
+11,11 - T. albacares,T. albacares,UTTHAL-3A,Pelagic,Utirik,7.56,5.43,0,0,0.718253968,0
+11,11 - T. albacares,T. albacares,UTTHAL-4A,Pelagic,Utirik,7.94,5.77,0,0,0.726700252,0
+12,14  - C. sordidus,C. sordidus,UTCHSO-1,Parrotfish,Utirik,4.19,3.22,0.102,0.08,0.76849642,0.061479714
+12,14  - C. sordidus,C. sordidus,UTCHSO-2,Parrotfish,Utirik,5.2,3.9,0.102,0.08,0.75,0.06
+12,14  - C. sordidus,C. sordidus,UTCHSO-3,Parrotfish,Utirik,5.01,3.96,0.102,0.08,0.790419162,0.063233533
+13,13 - N. lituratus,N. lituratus,UTNALI-1,Herbivore,Utirik,2.2,1.61,0.086,0.068,0.731818182,0.049763636
+13,13 - N. lituratus,N. lituratus,UTNALI-4,Herbivore,Utirik,1.73,1.28,0.086,0.068,0.739884393,0.050312139
+13,13 - N. lituratus,N. lituratus,UTNALI-5,Herbivore,Utirik,1.57,0.97,0.086,0.068,0.617834395,0.042012739
+14,12 - L. gibbus,L. gibbus,UTLUGI-1,Benthic Inv.,Utirik,10.2,7.36,0.026,0.024,0.721568627,0.017317647
+14,12 - L. gibbus,L. gibbus,UTLUGI-2,Benthic Inv.,Utirik,9.96,7.58,0.026,0.024,0.761044177,0.01826506
